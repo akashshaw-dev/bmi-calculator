@@ -1,2 +1,12 @@
-# bmi-calculator
-A beginner-friendly BMI calculator built with HTML, CSS, and JavaScript following WHO BMI standards.
+# BMI Calculator
+
+A simple BMI calculator built using HTML, CSS, and JavaScript.
+
+## Features
+- Calculates BMI using height and weight
+- Displays BMI category based on WHO standards
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
