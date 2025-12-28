@@ -10,3 +10,9 @@ A simple BMI calculator built using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+
+
+## Screenshot
+
+![BMI Calculator](screenshots/bmi-calculator.png)
+
