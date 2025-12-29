@@ -85,6 +85,10 @@ label{
     color: white;
 }
 
+#btn:hover{
+    cursor: pointer;
+    background-color: rgb(10, 152, 10);
+}
 
 #btn:active{
     transform: scale(0.98);
@@ -102,6 +106,33 @@ label{
 }
 
 
+/* Reset Button */
+
+#resetBtn{
+    font-size: 15px;
+    padding: 5px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(219, 42, 42);
+    font-weight: 600;
+    color: white;
+    transition: all 0.1s ease;
+    user-select: none;
+    cursor: pointer;
+}
+
+#resetBtn:active{
+    transform: scale(0.90);
+}
+
+#resetBtn:hover{
+    background-color: red;
+}
+
+.disabled-effect{
+    opacity: 0.5;
+    pointer-events: none;
+}
 
 
 
